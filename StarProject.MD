@@ -14,6 +14,8 @@ incubator-samoa|在线机器学习框架（孵化中）|https://github.com/apach
 ## 大数据工具
 **项目名称** |**说明**|**项目地址**|**领域**|**类型**|
 -------|-------|-------|-------|-------|
+maxwell|Mysql-binlog采集|https://github.com/zendesk/maxwell<br>http://maxwells-daemon.io/|流采集|开源框架|
+canal|Mysql-binlog采集|https://github.com/alibaba/canal|流采集|开源框架|
 pravega|流存储|https://github.com/pravega/pravega<br>http://pravega.io|大数据流计算|开源软件|
 delta|基于spark的数据湖软件|https://github.com/delta-io/delta<br>https://docs.delta.io/latest/index.html|大数据|开源软件|
 
