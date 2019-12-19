@@ -17,7 +17,7 @@
 * flink-udf-kafka-json-嵌套(https://my.oschina.net/qiangzigege/blog/2051984?nocache=1540870030427)
 * Flink SQL解析Json格式数据的方法(https://blog.csdn.net/weixin_34015336/article/details/92618336)
 * Flink Checkpoint 问题排查实用指南(https://segmentfault.com/a/1190000020405200?utm_source=tag-newest)
-
+* Flink学习小记-失败恢复重启策略(https://blog.csdn.net/yangxiaobo118/article/details/89644198)
 
 ### 博客
 * go4it-flink-api的功能研究(https://my.oschina.net/go4it?tab=newest&catalogId=6235343)
