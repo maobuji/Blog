@@ -33,6 +33,8 @@ pentaho-metadata-editor|CS的元数据管理工具支持模型|https://github.co
 ## 开源平台与工具
 **项目名称** |**说明**|**项目地址**|**领域**|**类型**|
 -------|-------|-------|-------|-------|
+WhereHows|linkedin带有元数据管理的数据平台|https://https://github.com/linkedin/WhereHows|数据平台|开源平台|
+-------|-------|-------|-------|-------|
 DataSphereStudio|微众银行数据中台|https://github.com/WeBankFinTech/DataSphereStudio|数据中台|开源平台|
 DataSphereStudio-Scriptis|数据开发IDE工具|https://github.com/WeBankFinTech/Scriptis|数据中台|开源软件|
 DataSphereStudio-Visualis|数据可视化工具|https://github.com/WeBankFinTech/Visualis|数据中台|开源软件|
