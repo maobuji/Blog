@@ -18,7 +18,8 @@
 * Flink SQL解析Json格式数据的方法(https://blog.csdn.net/weixin_34015336/article/details/92618336)
 * Flink Checkpoint 问题排查实用指南(https://segmentfault.com/a/1190000020405200?utm_source=tag-newest)
 * Flink学习小记-失败恢复重启策略(https://blog.csdn.net/yangxiaobo118/article/details/89644198)
+* Flink的Side Output侧输出(https://www.jianshu.com/p/0350cd9a38b5)
 
 ### 博客
-* go4it-flink-api的功能研究(https://my.oschina.net/go4it?tab=newest&catalogId=6235343)
-
+* **go4it**-flink源码分析(https://my.oschina.net/go4it?tab=newest&catalogId=6235343)
+* **LittleMagic**-flink的功能和原理(https://www.jianshu.com/nb/41027569)
