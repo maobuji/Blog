@@ -1,11 +1,11 @@
 # Flink学习资料
 
 
-### 合集
+### 成套
+*  开源官方网站(https://flink.apache.org/)
+*  Apache Flink Community China 官方学习网站 (https://ververica.cn/)
 *  Apache Flink Community China 官方出品教程(https://github.com/flink-china/flink-training-course)
-
 * 2019 Flink Forward 大会37+演讲PDF合辑(https://developer.aliyun.com/article/737925?spm=a1z389.11499242.0.0.65452413ChZ02O&utm_content=g_1000091582)
-
 
 ### 原理
 * Apache Flink：特性、概念、组件栈、架构及原理分析(https://www.cnblogs.com/linkmust/p/10896451.html)
