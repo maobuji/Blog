@@ -22,6 +22,9 @@
 * Spark Streaming/Flink广播实现作业配置动态更新(https://www.jianshu.com/p/97dae75c266c)
 * Flink Window分析及Watermark解决乱序数据机制深入剖析(https://blog.csdn.net/shenshouniu/article/details/84455619)
 
+### 平台实践
+* 汽车之家基于 Flink 的实时 SQL 平台设计思路与实践(https://yq.aliyun.com/articles/721179)
+
 ### 博客
 * **go4it**-flink源码分析(https://my.oschina.net/go4it?tab=newest&catalogId=6235343)
 * **LittleMagic**-flink的功能和原理(https://www.jianshu.com/nb/41027569)
