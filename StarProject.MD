@@ -9,7 +9,7 @@ flinkx|基于flink的分布式数据同步工具|https://github.com/DTStack/flin
 calcite|sql分析框架|https://github.com/apache/calcite|打数据、元数据|开源框架|
 Alink|基于流计算的机器学习框架|https://github.com/alibaba/Alink|机器学习|开源框架|
 incubator-samoa|在线机器学习框架（孵化中）|https://github.com/apache/incubator-samoa|机器学习|开源框架|
-
+AthenaX|基于flink1.5的SQL流处理平台|https://github.com/uber/AthenaX|大数据、流计算|开源框架|
 
 ## 大数据工具
 **项目名称** |**说明**|**项目地址**|**领域**|**类型**|
