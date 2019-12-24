@@ -20,7 +20,9 @@
 * Flink学习小记-失败恢复重启策略(https://blog.csdn.net/yangxiaobo118/article/details/89644198)
 * Flink的Side Output侧输出(https://www.jianshu.com/p/0350cd9a38b5)
 * Spark Streaming/Flink广播实现作业配置动态更新(https://www.jianshu.com/p/97dae75c266c)
+* Flink Window分析及Watermark解决乱序数据机制深入剖析(https://blog.csdn.net/shenshouniu/article/details/84455619)
 
 ### 博客
 * **go4it**-flink源码分析(https://my.oschina.net/go4it?tab=newest&catalogId=6235343)
 * **LittleMagic**-flink的功能和原理(https://www.jianshu.com/nb/41027569)
+* **秦凯新的技术社区**-1.6Fink牛刀小试系列(https://blog.csdn.net/shenshouniu/article/details/83719129)
