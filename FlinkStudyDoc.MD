@@ -30,3 +30,4 @@
 * **go4it**-flink源码分析(https://my.oschina.net/go4it?tab=newest&catalogId=6235343)
 * **LittleMagic**-flink的功能和原理(https://www.jianshu.com/nb/41027569)
 * **秦凯新的技术社区**-1.6Fink牛刀小试系列(https://blog.csdn.net/shenshouniu/article/details/83719129)
+* **Alink品数**-Alink学习博客(https://www.zhihu.com/people/alink_pinshu/activities)
