@@ -2,9 +2,10 @@
 
 
 ### 成套
-*  开源官方网站(https://flink.apache.org/)
-*  Apache Flink Community China 官方学习网站 (https://ververica.cn/)
-*  Apache Flink Community China 官方出品教程(https://github.com/flink-china/flink-training-course)
+* 开源官方网站(https://flink.apache.org/)
+* Apache Flink Community China 官方学习网站 (https://ververica.cn/)
+* Apache Flink Community China 官方出品教程(https://github.com/flink-china/flink-training-course)
+* Apache Flink Community China 的例子库(https://github.com/ververica)
 * 2019 Flink Forward 大会37+演讲PDF合辑(https://developer.aliyun.com/article/737925?spm=a1z389.11499242.0.0.65452413ChZ02O&utm_content=g_1000091582)
 
 ### 原理
