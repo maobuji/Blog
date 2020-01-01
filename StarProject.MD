@@ -26,7 +26,7 @@ delta|基于spark的数据湖软件|https://github.com/delta-io/delta<br>https:/
 SchemaCrawler|RDBMS元数据采集工具|https://github.com/schemacrawler/SchemaCrawler<br>http://www.schemacrawler.com/|元数据|开源框架|
 metacat|元数据采集工具|https://github.com/Netflix/metacat|大数据、元数据|开源框架|
 metabase|数据库元数据发现以及输出报表|https://github.com/metabase/metabas/<br>https://www.metabase.com/|大数据、元数据|开源软件|
-metamodel|提供用于发现，元数据浏览和查询不同类型数据源的通用接口|https://github.com/apache/metamodel<br>http://metamodel.apache.org/<br>https://cwiki.apache.org/confluence/display/METAMODEL|大数据统一访问|开源软件|
+metamodel|提供用于发现，元数据浏览和查询不同类型数据源的通用接口|https://github.com/apache/metamodel<br>http://metamodel.apache.org/<br>https://cwiki.apache.org/confluence/display/METAMODEL<br>https://issues.apache.org/jira/browse/METAMODEL|大数据统一访问|开源软件|
 system-designer|BS数据模型设计工具|https://github.com/design-first/system-designer|元数据|开源软件|
 pentaho-metadata-editor|CS的元数据管理工具支持模型|https://github.com/pentaho/pentaho-metadata-editor<br>https://wiki.pentaho.com/display/ServerDoc2x/Pentaho+Metadata+Editor|元数据|开源软件|
 Datablau Data Modeler|专业建模工具|http://www.datablau.cn/product/ddm|数据模型|商业软件|
