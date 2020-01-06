@@ -11,6 +11,7 @@
 ### 原理
 * Apache Flink：特性、概念、组件栈、架构及原理分析(https://www.cnblogs.com/linkmust/p/10896451.html)
 * 批处理之外的流式世界(https://www.cnblogs.com/huxi2b/p/6878843.html)
+* 再谈Flink事件时间、水印和迟到数据处理(https://www.jianshu.com/p/c612e95a5028)
 
 ### 实践
 * 高性能:MYSQL异步客户端(https://blog.csdn.net/rlnlo2pnefx9c/article/details/83829461)
