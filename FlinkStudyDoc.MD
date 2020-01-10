@@ -30,6 +30,7 @@
 * 汽车之家基于 Flink 的实时 SQL 平台设计思路与实践(https://yq.aliyun.com/articles/721179)
 * 友信金服基于Flink构建实时用户画像系统的实践(https://mp.weixin.qq.com/s/pXQjvoxBRZI9Yvbk4jDeQg)
 * 北京图特摩斯科技知识图谱+Flink：大规模实时动态图谱平台的实现(https://blog.csdn.net/lovebyz/article/details/103773960)
+* 奇安信集团基于Flink 构建 CEP 引擎实时检测网络攻击(https://mp.weixin.qq.com/s/8-BWcfY0yrkMAR9MmBDsSQ)
 
 ### 博客
 * **go4it**-flink源码分析(https://my.oschina.net/go4it?tab=newest&catalogId=6235343)
