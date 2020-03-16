@@ -31,6 +31,7 @@
 * Flink SQL---JSON数据源格式(https://mp.weixin.qq.com/s?__biz=MzUxODUxOTk5Ng==&mid=2247484232&idx=1&sn=286ed1f78242096a79a5250ad2a9c4cf&chksm=f986ee9bcef1678db145a3e6ca0b0b88eee4da02e1e2e3f67a96dbf9a3b6a18e19b2e3199be0&mpshare=1&scene=23&srcid=&sharer_sharetime=1577405847756&sharer_shareid=6150fbef9445721c13a94687c70216d9#rd)
 * Blink-SQL性能提升(https://mp.weixin.qq.com/s/DbQ3iVDPhjSFVhWnhEsVbw)
 * Flink 高级应用模式第一辑：欺诈检测系统案例研究(https://www.infoq.cn/article/dR1m9FfB1gEtvggKvlVX)
+* Flink 如何支持特征工程、在线学习、在线预测等 AI 场景？(https://mp.weixin.qq.com/s/2dlgGXzN9iWotxK_tg9LNg)
 
 ### 平台实践
 * 汽车之家基于 Flink 的实时 SQL 平台设计思路与实践(https://yq.aliyun.com/articles/721179)
